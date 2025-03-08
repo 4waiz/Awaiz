@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Awaiz17!
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently doing Bachelors in Software Engineering at Al Ain University.
-- 📫 How to reach me - awaizahmed2005@gmail.com
+- 📫 How to reach me - [Awaiz LinkedIn](https://www.linkedin.com/in/awaiz-ahmed/)
 
 <!---
 Awaiz17/Awaiz17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
