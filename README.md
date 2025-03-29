@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Awaiz17!
+- 👋 Hi, I’m Awaiz!
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently doing Bachelors in Software Engineering at Al Ain University.
 - 📫 How to reach me - [Awaiz LinkedIn](https://www.linkedin.com/in/awaiz-ahmed/)
